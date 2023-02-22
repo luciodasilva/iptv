@@ -13,23 +13,23 @@ http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8
 #Variedades
 
 #Filmes e Séries
-#EXTINF:0 tvg-id="1" group-title="Filmes e Séries ",Space
+#EXTINF:0 tvg-id="1" group-title="Filmes e Séries - Canais Fechados",Space
 https://br.embedflix.net/p2p/space/chunks.m3u8
 
-#EXTINF:0 tvg-id="2" group-title="Canais Fechados - Filmes e Séries ",HBO 1
+#EXTINF:0 tvg-id="2" group-title="Filmes e Séries - Canais Fechados",HBO 1
 https://br.embedflix.net/p2p/hbo/chunks.m3u8
 
-#EXTINF:0 tvg-id="3" group-title="Canais Fechados - Filmes e Séries ",Telecine Premium
+#EXTINF:0 tvg-id="3" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries" ,Telecine Premium
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="4" group-title="Canais Fechados - Filmes e Séries ",Telecine Action
+#EXTINF:0 tvg-id="4" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Action
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="5" group-title="Canais Fechados - Filmes e Séries ",Telecine Touch
+#EXTINF:0 tvg-id="5" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Touch
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="6" group-title="Canais Fechados - Filmes e Séries ",Telecine Pipoca
+#EXTINF:0 tvg-id="6" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Pipoca
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="7" group-title="Canais Fechados - Filmes e Séries ",Telecine Cult
+#EXTINF:0 tvg-id="7" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Cult
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="8" group-title="Canais Fechados - Filmes e Séries ",Telecine Fun
+#EXTINF:0 tvg-id="8" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Fun
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
 #Música
