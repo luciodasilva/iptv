@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Telecine Action Snaker" group-title="Brasil ➾ Kids",Baby TV
+#EXTINF:0 tvg-id="TeleAction", Telecine Action
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-
+#EXTINF:0 tvg-id="CN", Cartoon Network
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
