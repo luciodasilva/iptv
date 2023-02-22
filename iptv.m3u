@@ -7,19 +7,19 @@ http://168.205.87.198:8555/live/antony/1234/104.m3u8
 #Esporte
 
 #Desenhos
-#EXTINF:0 tvg-id="2" group-title="Canais Fechados - Desenhos",Cartoon Network
+#EXTINF:0 tvg-id="2" group-title="Canais Fechados" subgroup="Desenhos",Cartoon Network
 http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8
 
 #Variedades
 
 #Filmes e Séries
-#EXTINF:0 tvg-id="1" group-title="Filmes e Séries - Canais Fechados",Space
+#EXTINF:0 tvg-id="1" group-title="Canais Fechados" subgroup="Filmes e Séries",Space
 https://br.embedflix.net/p2p/space/chunks.m3u8
 
-#EXTINF:0 tvg-id="2" group-title="Filmes e Séries - Canais Fechados",HBO 1
+#EXTINF:0 tvg-id="2" group-title="Canais Fechados" subgroup="Filmes e Séries",HBO 1
 https://br.embedflix.net/p2p/hbo/chunks.m3u8
 
-#EXTINF:0 tvg-id="3" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries" ,Telecine Premium
+#EXTINF:0 tvg-id="3" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Premium
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="4" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Action
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
@@ -38,9 +38,3 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #Filmes
 
 #Séries
-
-
-
-
-
-
