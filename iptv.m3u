@@ -1,23 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="baby-tv" group-title="Portugal ➾ Kids",Baby TV
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/1441
-#EXTINF:0 tvg-id="boomerang" group-title="Portugal ➾ Kids",Boomerang
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/24529
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Portugal ➾ Kids",Canal Panda
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/1438
-#EXTINF:0 tvg-id="cartoon" group-title="Portugal ➾ Kids",Cartoon Network
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/1440
-#EXTINF:0 tvg-id="disney" group-title="Portugal ➾ Kids",Disney Channel
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/1434
-#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Portugal ➾ Kids",Disney Junior
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/1435
-#EXTINF:0 tvg-id="Disney+.fr" group-title="Portugal ➾ Kids",Disney+
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/226084
-#EXTINF:0 tvg-id="jimjam" group-title="Portugal ➾ Kids",JimJam
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/1442
-#EXTINF:0 tvg-id="nick-jr" group-title="Portugal ➾ Kids",Nick Junior
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/9693
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Portugal ➾ Kids",nickelodeon
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/1436
-#EXTINF:0 tvg-id="PandaKIDS.pt" group-title="Portugal ➾ Kids",PANDA Kids
-http://iptvtree.net:8080/texjab/0vRc5rVmCCtytzP0/290678
+#EXTINF:0 tvg-id="Telecine Action Snaker" group-title="Brasil ➾ Kids",Baby TV
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
