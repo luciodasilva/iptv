@@ -58,11 +58,17 @@ http://cdn.lhmtv.ga/filmes/enigmadoprincipe-dub-720p.mp4?KeltecMPIPTV
 #EXTINF:-1 group-title="FILMES | FICÇÃO" ,Harry Potter e as reliquias da morte 1
 http://cdn.lhmtv.ga/filmes/reliquiaparte1-dub-720p.mp4?KeltecMPIPTV
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Chaves 24H" tvg-logo="http://listaccess.me/Logo/Chaves.png" group-title="Canais: 24hrs",Chaves 24H
+http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7559
+#EXTINF:-1 tvg-id="" tvg-name="Clarêncio o Otimista 24H" tvg-logo="http://listaccess.me/Logo/Clarencio.png" group-title="Canais: 24hrs",Clarêncio o Otimista 24H
+http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7599
 #EXTINF:0 tvg-id="2" group-title="FILMES | AÇÃO",
 
 #Séries
 #EXTINF:0 tvg-id="2" group-title="ON DEMAND | SÉRIES",
 
-
-
+#FONTES
+https://onlinetvhd.net/
+http://detran-br.com/tv-ao-vivo/
+https://gitlab.com/snippets/1715562/raw
+https://pastebin.com/raw/g5R1Nd4x
