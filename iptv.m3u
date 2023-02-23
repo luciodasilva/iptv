@@ -3,6 +3,9 @@
 #EXTINF:0 tvg-id="5" group-title="ABERTA",SBT
 http://168.205.87.198:8555/live/antony/1234/104.m3u8
 
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Teste
+http://api.magiaiptv.com/live/800196/128093/m2_CJ7FGfCK3NGmZ2s0vgJG_720p
+
 #Canais Fechados
 #Esporte
 #EXTINF:0 tvg-id="2" group-title="FECHADA | ESPORTES",
