@@ -40,8 +40,8 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
 #OnDemand
 #Filmes
-#EXTINF:0 tvg-id="2" group-title="FILMES | TERROR", Filme de Terror
-https://ok.ru/video/4886332639759
+#EXTINF:0 tvg-id="2" group-title="FILMES | TERROR", link do Youtube
+https://youtu.be/12FeFo_bOXE
 
 
 #EXTINF:0 tvg-id="2" group-title="FILMES | AÇÃO",
