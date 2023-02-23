@@ -1,40 +1,53 @@
 #EXTM3U
 #Canais Abertos
-#EXTINF:0 tvg-id="5" group-title="Canais Abertos",SBT
+#EXTINF:0 tvg-id="5" group-title="ABERTA",SBT
 http://168.205.87.198:8555/live/antony/1234/104.m3u8
 
 #Canais Fechados
 #Esporte
+#EXTINF:0 tvg-id="2" group-title="FECHADA | ESPORTES",
+
 
 #Desenhos
-#EXTINF:0 tvg-id="2" group-title="Canais Fechados" subgroup="Desenhos",Cartoon Network
+#EXTINF:0 tvg-id="2" group-title="FECHADA | DESENHO",Cartoon Network
 http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8
 
 #Variedades
+#EXTINF:0 tvg-id="2" group-title="FECHADA | VARIEDADES",
 
 #Filmes e Séries
-#EXTINF:0 tvg-id="1" group-title="Canais Fechados" subgroup="Filmes e Séries",Space
+#EXTINF:0 tvg-id="1" group-title="FECHADA | FILMES E SÉRIES",Space
 https://br.embedflix.net/p2p/space/chunks.m3u8
 
-#EXTINF:0 tvg-id="2" group-title="Canais Fechados" subgroup="Filmes e Séries",HBO 1
+#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO 1
 https://br.embedflix.net/p2p/hbo/chunks.m3u8
 
-#EXTINF:0 tvg-id="3" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Premium
+#EXTINF:0 tvg-id="3" group-title="FECHADA | FILMES E SÉRIES"Telecine Premium
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="4" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Action
+#EXTINF:0 tvg-id="4" group-title="FECHADA | FILMES E SÉRIES",Telecine Action
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="5" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Touch
+#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Telecine Touch
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="6" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Pipoca
+#EXTINF:0 tvg-id="6" group-title="FECHADA | FILMES E SÉRIES",Telecine Pipoca
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="7" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Cult
+#EXTINF:0 tvg-id="7" group-title="FECHADA | FILMES E SÉRIES",Telecine Cult
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="8" group-title="Canais Fechados" pltv-subgroup="Filmes e Séries",Telecine Fun
+#EXTINF:0 tvg-id="8" group-title="FECHADA | FILMES E SÉRIES",Telecine Fun
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
 #Música
+#EXTINF:0 tvg-id="2" group-title="FECHADA | MUSICA",
 
 #OnDemand
 #Filmes
+#EXTINF:0 tvg-id="2" group-title="FILMES | TERROR", Filme de Terror
+https://ok.ru/video/4886332639759
+
+
+#EXTINF:0 tvg-id="2" group-title="FILMES | AÇÃO",
 
 #Séries
+#EXTINF:0 tvg-id="2" group-title="ON DEMAND | SÉRIES",
+
+
+
