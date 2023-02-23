@@ -40,8 +40,23 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
 #OnDemand
 #Filmes
-#EXTINF:0 tvg-id="2" group-title="FILMES | TERROR", Crepúsculo
+#EXTINF:0 tvg-id="2" group-title="FILMES | TERROR", link do Youtube
 https://www.youtube.com/channel/UCG7XeQGDMKItewhpyhAA5MQ
+
+#EXTINF:-1 tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/cinema10.png" group-title="FILMES | FICÇÃO" ,Harry Potter e a pedra filosofal
+http://cdn.lhmtv.ga/filmes/pedrafilosofal-dub-720p.mp4?KeltecMPIPTV
+#EXTINF:-1 tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/cinema10.png" group-title="FILMES | FICÇÃO" ,Harry Potter e a camara secreta
+http://cdn.lhmtv.ga/filmes/camarasecreta-dub-720p.mp4?KeltecMPIPTV
+#EXTINF:-1 tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/cinema10.png" group-title="FILMES | FICÇÃO" ,Harry Potter e o prisioneiro de azkaban
+http://cdn.lhmtv.ga/filmes/prisioneiroazkaban-dub-720p.mp4?KeltecMPIPTV
+#EXTINF:-1 tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/cinema10.png" group-title="FILMES | FICÇÃO" ,Harry Potter e o calice de fogo
+http://cdn.lhmtv.ga/filmes/calicedefogo-dub-720p.mp4?KeltecMPIPTV
+#EXTINF:-1 tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/cinema10.png" group-title="FILMES | FICÇÃO" ,Harry Potter e a ordem da fenix
+http://cdn.lhmtv.ga/filmes/ordemfenix-dub-360p.mp4?KeltecMPIPTV
+#EXTINF:-1 tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/cinema10.png" group-title="FILMES | FICÇÃO" ,Harry Potter e o enigma do principe
+http://cdn.lhmtv.ga/filmes/enigmadoprincipe-dub-720p.mp4?KeltecMPIPTV
+#EXTINF:-1 tvg-logo="https://i62.servimg.com/u/f62/19/82/45/70/cinema10.png" group-title="FILMES | FICÇÃO" ,Harry Potter e as reliquias da morte 1
+http://cdn.lhmtv.ga/filmes/reliquiaparte1-dub-720p.mp4?KeltecMPIPTV
 
 
 #EXTINF:0 tvg-id="2" group-title="FILMES | AÇÃO",
