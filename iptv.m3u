@@ -7,15 +7,15 @@ https://br.embedflix.net/p2p/hbo/chunks.m3u8
 #EXTINF:0 tvg-id="4" group-title="FECHADA | FILMES E SÉRIES",Telecine Action
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="3" group-title="FECHADA | FILMES E SÉRIES"Telecine Premium
-
+https://live.embedflix.net/p2p/tlcpremium/chunks.m3u8
 #EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Telecine Touch
-https://embedflix.net/1f98774d-15ff-472e-b411-18578339b408
+https://live.embedflix.net/p2p/telecinetouch/chunks.m3u8
 #EXTINF:0 tvg-id="6" group-title="FECHADA | FILMES E SÉRIES",Telecine Pipoca
 https://live.embedflix.net/p2p/tlcpipoca/chunks.m3u8
 #EXTINF:0 tvg-id="7" group-title="FECHADA | FILMES E SÉRIES",Telecine Cult
-
+https://live.embedflix.net/p2p/telecinecult/chunks.m3u8
 #EXTINF:0 tvg-id="8" group-title="FECHADA | FILMES E SÉRIES",Telecine Fun
-
+https://live.embedflix.net/p2p/tlcfun/chunks.m3u8
 #EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX
 http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p_2M
 #EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX 2 Opção
