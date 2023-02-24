@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 6" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter 6
+http://7go.xyz:8080/movie/FabianaAuckland/fab763auk/24772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter 7" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="FILMES | COLETÂNEA HARRY POTTER",Harry Potter 7
+http://7go.xyz:8080/movie/FabianaAuckland/fab763auk/24770.mp4
