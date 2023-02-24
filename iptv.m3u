@@ -1,9 +1,36 @@
 #EXTM3U
+
+#Canais Abertos
+#EXTINF:0 tvg-id="5" group-title="ABERTA",SBT
+http://168.205.87.198:8555/live/antony/1234/104.m3u8
+#EXTINF:0 tvg-id="5" group-title="ABERTA",SBT 2
+http://api.magiaiptv.com/live/800196/128093/m2_CJ7FGfCK3NGmZ2s0vgJG_720p
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo
+http://api.magiaiptv.com/live/800196/128093/m1_FHv07WYXkqS7SXLh6C_720p
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 2
+http://api.magiaiptv.com/live/800196/128093/m1_yfdgUeQ1UcONnAqtl_720p
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 3
+http://api.magiaiptv.com/live/800196/128093/m1_IMRzEvvkDihenNyPG_720p
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 4
+http://api.magiaiptv.com/live/800196/128093/m2_CJgLgifafdaefasdrgTV_720p
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Record
+http://api.magiaiptv.com/live/800196/128093/m3_VdZgGpjwITLnveOG_720p
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Record 2
+http://api.magiaiptv.com/live/800196/128093/m3_H9NW5x15IXQF_720p
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Band
+http://168.205.87.198:8555/live/antony/1234/19.m3u8
+
+#Desenhos
+#EXTINF:0 tvg-id="2" group-title="FECHADA | DESENHO",Cartoon Network
+http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | DESENHO",TV Rá-Tim-Bum
+http://168.205.87.198:8555/live/antony/1234/84.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | DESENHO",TV Anime
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | DESENHO",Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
 #Filmes e Séries
-#EXTINF:0 tvg-id="1" group-title="FECHADA | FILMES E SÉRIES",Space
-https://br.embedflix.net/p2p/space/chunks.m3u8
-#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO 1
-https://br.embedflix.net/p2p/hbo/chunks.m3u8
 #EXTINF:0 tvg-id="4" group-title="FECHADA | FILMES E SÉRIES",Telecine Action
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="3" group-title="FECHADA | FILMES E SÉRIES"Telecine Premium
@@ -16,9 +43,83 @@ https://live.embedflix.net/p2p/tlcpipoca/chunks.m3u8
 https://live.embedflix.net/p2p/telecinecult/chunks.m3u8
 #EXTINF:0 tvg-id="8" group-title="FECHADA | FILMES E SÉRIES",Telecine Fun
 https://live.embedflix.net/p2p/tlcfun/chunks.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO 1
+https://br.embedflix.net/p2p/hbo/chunks.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO 2
+https://live.embedflix.net/p2p/hbo2/playlist.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO Family
+https://live.embedflix.net/p2p/hbofamily/chunks.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO Plus
+https://live.embedflix.net/p2p/hboplus/chunks.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO Pop
+https://live.embedflix.net/p2p/hbopop/chunks.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO Xtreme
+https://live.embedflix.net/p2p/hboextreme/chunks.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO Max
+https://live.embedflix.net/p2p/hbomax/chunks.m3u8
+#EXTINF:0 tvg-id="1" group-title="FECHADA | FILMES E SÉRIES",Space
+https://br.embedflix.net/p2p/space/chunks.m3u8
 #EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX
 http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p_2M
 #EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX 2 Opção
 http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p
 #EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Star Channel
 http://api.magiaiptv.com/live/800196/128093/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p
+#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",TNT Series
+https://live.embedflix.net/p2p/tntseries/chunks.m3u8
+#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Warner Bros
+https://live.embedflix.net/p2p/warnerchannel/chunks.m3u8
+#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Megapix
+https://live.embedflix.net/p2p/megapix/chunks.m3u8
+
+
+#Canais de Esporte
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTV Direto
+http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Fox Sports Premium
+http://api.magiaiptv.com/live/800196/128093/m1_knOhhfNdF9kfR0_720p_2M
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Fox Sports Premium 2
+http://api.magiaiptv.com/live/800196/128093/m1_knOhhfNdF9kfR0_720p_2M
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv +
+http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 2
+http://api.magiaiptv.com/live/800196/128093/m3_FZukotDQWYstv2_1080p
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 4
+http://api.magiaiptv.com/live/800196/128093/m3_eargH0Pv9qstv4_720p_2M
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 5
+http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv Premiere
+http://api.magiaiptv.com/live/800196/128093/p3_jUB9PDqLPI4ma3xxj
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Canal Off
+http://api.magiaiptv.com/live/800196/128093/m1_u2BlGNS5ieOZf1KVtQxaIp0R_720p_2M
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",RedBull
+http://api.magiaiptv.com/live/800196/128093/m3_EcfN7yNKhNP89Tp5Q_720p
+
+
+#Música
+#EXTINF:0 tvg-id="5" group-title="FECHADA | MUSICAS",K-Pop Tv Play
+http://api.magiaiptv.com/live/800196/128093/m2_9EOCjuxykuMtRyJM_720p
+
+
+#Variedades
+#EXTINF:0 tvg-id="2" group-title="FECHADA | VARIEDADES",Comedy Central
+https://live.embedflix.net/p2p/comedycentral/chunks.m3u8
+
+
+#Menos Assistidos
+#EXTINF:0 tvg-id="5" group-title="MENOS ASSISTIDOS",Tv Sul
+http://api.magiaiptv.com/live/800196/128093/m2_CJtRyehdaefTaVgSual_720p
+#EXTINF:0 tvg-id="5" group-title="MENOS ASSISTIDOS",Tv Brasil
+http://api.magiaiptv.com/live/800196/128093/m2_wELX3b2rIQxpSkv7lC9ORcdY_720p
+
+
+#Canais 24h
+#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Vikings 24h
+http://api.magiaiptv.com/live/800196/128093/p1_Vikings
+#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Game of Thrones 24h
+http://api.magiaiptv.com/live/800196/128093/p1_Game_of_Thrones
+#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Urso sem Curso 24h
+http://api.magiaiptv.com/live/800196/128093/p1_uscur_264
+#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Séries Clássicas 24h
+http://168.205.87.198:8555/live/antony/1234/160.m3u8
+
