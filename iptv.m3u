@@ -2,227 +2,40 @@
 #Canais Abertos
 #EXTINF:0 tvg-id="5" group-title="ABERTA",SBT
 http://168.205.87.198:8555/live/antony/1234/104.m3u8
-
-
-
-#Canais Fechados
-#Esporte
-#EXTINF:0 tvg-id="2" group-title="FECHADA | ESPORTES",
-
-
-#Desenhos
-#EXTINF:0 tvg-id="2" group-title="FECHADA | DESENHO",Cartoon Network
-http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8
-
-#Variedades
-#EXTINF:0 tvg-id="2" group-title="FECHADA | VARIEDADES",
-
-#Filmes e Séries
-#EXTINF:0 tvg-id="1" group-title="FECHADA | FILMES E SÉRIES",Space
-https://br.embedflix.net/p2p/space/chunks.m3u8
-
-#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO 1
-https://br.embedflix.net/p2p/hbo/chunks.m3u8
-
-#EXTINF:0 tvg-id="3" group-title="FECHADA | FILMES E SÉRIES"Telecine Premium
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="4" group-title="FECHADA | FILMES E SÉRIES",Telecine Action
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Telecine Touch
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="6" group-title="FECHADA | FILMES E SÉRIES",Telecine Pipoca
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="7" group-title="FECHADA | FILMES E SÉRIES",Telecine Cult
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="8" group-title="FECHADA | FILMES E SÉRIES",Telecine Fun
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-
-#Música
-#EXTINF:0 tvg-id="2" group-title="FECHADA | MUSICA",
-
-#OnDemand
-#Filmes
-#EXTINF:0 tvg-id="2" group-title="FILMES | TERROR", link do Youtube
-https://www.youtube.com/channel/UCG7XeQGDMKItewhpyhAA5MQ
-
-#EXTINF:-1 group-title="FILMES | FICÇÃO" ,Harry Potter e a pedra filosofal
-http://cdn.lhmtv.ga/filmes/pedrafilosofal-dub-720p.mp4?KeltecMPIPTV
-#EXTINF:-1 group-title="FILMES | FICÇÃO" ,Harry Potter e a camara secreta
-http://cdn.lhmtv.ga/filmes/camarasecreta-dub-720p.mp4?KeltecMPIPTV
-#EXTINF:-1 group-title="FILMES | FICÇÃO" ,Harry Potter e o prisioneiro de azkaban
-http://cdn.lhmtv.ga/filmes/prisioneiroazkaban-dub-720p.mp4?KeltecMPIPTV
-#EXTINF:-1 group-title="FILMES | FICÇÃO" ,Harry Potter e o calice de fogo
-http://cdn.lhmtv.ga/filmes/calicedefogo-dub-720p.mp4?KeltecMPIPTV
-#EXTINF:-1 group-title="FILMES | FICÇÃO" ,Harry Potter e a ordem da fenix
-http://cdn.lhmtv.ga/filmes/ordemfenix-dub-360p.mp4?KeltecMPIPTV
-#EXTINF:-1 group-title="FILMES | FICÇÃO" ,Harry Potter e o enigma do principe
-http://cdn.lhmtv.ga/filmes/enigmadoprincipe-dub-720p.mp4?KeltecMPIPTV
-#EXTINF:-1 group-title="FILMES | FICÇÃO" ,Harry Potter e as reliquias da morte 1
-http://cdn.lhmtv.ga/filmes/reliquiaparte1-dub-720p.mp4?KeltecMPIPTV
-
-#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Vikings 24h
-http://api.magiaiptv.com/live/800196/128093/p1_Vikings
-
-#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Game of Thrones 24h
-http://api.magiaiptv.com/live/800196/128093/p1_Game_of_Thrones
-
 #EXTINF:0 tvg-id="5" group-title="ABERTA",SBT 2
 http://api.magiaiptv.com/live/800196/128093/m2_CJ7FGfCK3NGmZ2s0vgJG_720p
 #EXTINF:0 tvg-id="5" group-title="ABERTA",Globo
 http://api.magiaiptv.com/live/800196/128093/m1_FHv07WYXkqS7SXLh6C_720p
-#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",History Vikings
-http://api.magiaiptv.com/live/800196/128093/p1_Vikings
-#EXTINF:0 tvg-id="5" group-title="FECHADA | DESENHO",Urso sem Curso
-http://api.magiaiptv.com/live/800196/128093/p1_uscur_264
-#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Game of Thrones 24h
-http://api.magiaiptv.com/live/800196/128093/p1_Game_of_Thrones
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",EuroSport
-http://api.magiaiptv.com/live/800196/128093/m2_EUassaafSPdfgORT_720p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX
-http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p_2M
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 2
+http://api.magiaiptv.com/live/800196/128093/m1_yfdgUeQ1UcONnAqtl_720p
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 3
+http://api.magiaiptv.com/live/800196/128093/m1_IMRzEvvkDihenNyPG_720p
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 4
+http://api.magiaiptv.com/live/800196/128093/m2_CJgLgifafdaefasdrgTV_720p
 #EXTINF:0 tvg-id="5" group-title="ABERTA",Record
 http://api.magiaiptv.com/live/800196/128093/m3_VdZgGpjwITLnveOG_720p
-#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 2
-http://api.magiaiptv.com/live/800196/128093/m3_EQpEHe0qubKSI_720p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Desconhecido
-http://api.magiaiptv.com/live/800196/128093/m3_EcfN7yNKhNP89Tp5Q_720p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTV Direto
-http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX 2 Opção
-http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p
-#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 3
-http://api.magiaiptv.com/live/800196/128093/m1_yfdgUeQ1UcONnAqtl_720p
 #EXTINF:0 tvg-id="5" group-title="ABERTA",Record 2
 http://api.magiaiptv.com/live/800196/128093/m3_H9NW5x15IXQF_720p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | VARIEDADES",Tv Sul
-http://api.magiaiptv.com/live/800196/128093/m2_CJtRyehdaefTaVgSual_720p
-#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 4
-http://api.magiaiptv.com/live/800196/128093/m1_IMRzEvvkDihenNyPG_720p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | VARIEDADES",Tv Brasil
-http://api.magiaiptv.com/live/800196/128093/m2_wELX3b2rIQxpSkv7lC9ORcdY_720p
-#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 5
-http://api.magiaiptv.com/live/800196/128093/m2_CJgLgifafdaefasdrgTV_720p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Fox Sports Premium
-http://api.magiaiptv.com/live/800196/128093/m1_knOhhfNdF9kfR0_720p_2M
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",N Sports
-http://api.magiaiptv.com/live/800196/128093/m2_h781bvkz1bu6a1z_720p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Canal Off
-http://api.magiaiptv.com/live/800196/128093/m1_u2BlGNS5ieOZf1KVtQxaIp0R_720p_2M
-#EXTINF:0 tvg-id="5" group-title="FECHADA | MUSICAS",K-Pop Tv Play
-http://api.magiaiptv.com/live/800196/128093/m2_9EOCjuxykuMtRyJM_720p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",EuroSport 2
-http://api.magiaiptv.com/live/800196/128093/m2_EUassaafSPdfgORT_720p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Fox Sports Premium 2
-http://api.magiaiptv.com/live/800196/128093/m1_knOhhfNdF9kfR0_720p_2M
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv +
-http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 2
-http://api.magiaiptv.com/live/800196/128093/m3_FZukotDQWYstv2_1080p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 4
-http://api.magiaiptv.com/live/800196/128093/m3_eargH0Pv9qstv4_720p_2M
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 5
-http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv Premiere
-http://api.magiaiptv.com/live/800196/128093/p3_jUB9PDqLPI4ma3xxj
+#Filmes e Séries
+#EXTINF:0 tvg-id="1" group-title="FECHADA | FILMES E SÉRIES",Space
+https://br.embedflix.net/p2p/space/chunks.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO 1
+https://br.embedflix.net/p2p/hbo/chunks.m3u8
+#EXTINF:0 tvg-id="4" group-title="FECHADA | FILMES E SÉRIES",Telecine Action
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="3" group-title="FECHADA | FILMES E SÉRIES"Telecine Premium
+
+#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Telecine Touch
+https%3A%2F%2Fembedflix.net%2Ftv%2Ftelecine-touch&amp;j=https%3A%2F%2Fembedflix.net%2Ftv%2F
+#EXTINF:0 tvg-id="6" group-title="FECHADA | FILMES E SÉRIES",Telecine Pipoca
+
+#EXTINF:0 tvg-id="7" group-title="FECHADA | FILMES E SÉRIES",Telecine Cult
+
+#EXTINF:0 tvg-id="8" group-title="FECHADA | FILMES E SÉRIES",Telecine Fun
+
+#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX
+http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p_2M
+#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX 2 Opção
+http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p
 #EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Star Channel
 http://api.magiaiptv.com/live/800196/128093/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="As aventuras de Jackie Chan 24H" tvg-logo="http://listaccess.me/Logo/jackie.png" group-title="Canais: 24hrs",As aventuras de Jackie Chan 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7202
-#EXTINF:-1 tvg-id="" tvg-name="Ben 10 24H" tvg-logo="http://listaccess.me/Logo/Ben10.png" group-title="Canais: 24hrs",Ben 10 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7598
-#EXTINF:-1 tvg-id="" tvg-name="Black Kamen Rider 24H" tvg-logo="http://listaccess.me/Logo/black.png" group-title="Canais: 24hrs",Black Kamen Rider 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/11946
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24H" tvg-logo="http://listaccess.me/Logo/Bob.png" group-title="Canais: 24hrs",Bob Esponja 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7220
-#EXTINF:-1 tvg-id="" tvg-name="Caillou 24H" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81zM9eixEEL.png" group-title="Canais: 24hrs",Caillou 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/3834
-#EXTINF:-1 tvg-id="" tvg-name="Capitao Planeta 24H" tvg-logo="http://listaccess.me/Logo/planeta.png" group-title="Canais: 24hrs",Capitao Planeta 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/13286
-
-
-
-
-#FONTES
-https://onlinetvhd.net/
-http://detran-br.com/tv-ao-vivo/
-https://gitlab.com/snippets/1715562/raw
-https://pastebin.com/raw/g5R1Nd4x
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Cavalo de Fogo 24H" tvg-logo="http://listaccess.me/Logo/cavalo.png" group-title="Canais: 24hrs",Cavalo de Fogo 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/13962
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragao 24H" tvg-logo="http://listaccess.me/Logo/caverna.png" group-title="Canais: 24hrs",Caverna do Dragao 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/9839
-#EXTINF:-1 tvg-id="" tvg-name="Changeman 24H" tvg-logo="http://listaccess.me/Logo/changeman.png" group-title="Canais: 24hrs",Changeman 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/11691
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin 24H" tvg-logo="http://listaccess.me/Logo/chapolin.png" group-title="Canais: 24hrs",Chapolin 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/11608
-#EXTINF:-1 tvg-id="" tvg-name="Chaves 24H" tvg-logo="http://listaccess.me/Logo/Chaves.png" group-title="Canais: 24hrs",Chaves 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7559
-#EXTINF:-1 tvg-id="" tvg-name="Clarêncio o Otimista 24H" tvg-logo="http://listaccess.me/Logo/Clarencio.png" group-title="Canais: 24hrs",Clarêncio o Otimista 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7599
-#EXTINF:-1 tvg-id="" tvg-name="Classicos Disney 24H" tvg-logo="http://listaccess.me/Logo/classicos.png" group-title="Canais: 24hrs",Classicos Disney 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7218
-#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cão Covarde 24H" tvg-logo="http://listaccess.me/Logo/coragem.png" group-title="Canais: 24hrs",Coragem o Cão Covarde 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7217
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca 24H" tvg-logo="http://listaccess.me/Logo/corrida.png" group-title="Canais: 24hrs",Corrida Maluca 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7201
-
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos 24H" tvg-logo="http://4.bp.blogspot.com/-WGjyd7X5nCM/UZu1NqnDBdI/AAAAAAABJCg/kmUQkSSMcLk/s1600/Sementinha+Personagens+B%25C3%25ADblicos+60.gif" group-title="Canais: 24hrs",Desenhos Biblicos 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/3835
-
-#EXTINF:-1 tvg-id="" tvg-name="Du Dudu e Edu 24H" tvg-logo="http://listaccess.me/Logo/dudu.png" group-title="Canais: 24hrs",Du Dudu e Edu 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/13581
-
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças 24H" tvg-logo="http://listaccess.me/Logo/eu-a-patroa-e-as-criancas.png" group-title="Canais: 24hrs",Eu a Patroa e as Crianças 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7601
-
-#EXTINF:-1 tvg-id="" tvg-name="Hora de Aventura 24H" tvg-logo="http://listaccess.me/Logo/hora.png" group-title="Canais: 24hrs",Hora de Aventura 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/8999
-
-#EXTINF:-1 tvg-id="" tvg-name="Jovens Titans 24H" tvg-logo="http://listaccess.me/Logo/titas.png" group-title="Canais: 24hrs",Jovens Titans 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/8856
-#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24H" tvg-logo="http://listaccess.me/Logo/kenankel.png" group-title="Canais: 24hrs",Kenan e Kel 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7200
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça 24H" tvg-logo="http://listaccess.me/Logo/liga.png" group-title="Canais: 24hrs",Liga da Justiça 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/11720
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 24H" tvg-logo="http://listaccess.me/Logo/naruto.png" group-title="Canais: 24hrs",Naruto Shippuden 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/9520
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Pegue o Pombo 24H" tvg-logo="http://listaccess.me/Logo/pombo.png" group-title="Canais: 24hrs",Pegue o Pombo 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/9841
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Pica Pau 24H" tvg-logo="http://www.flamboyant.ind.br/imagens/linhas-especiais/pica-pau/logo.png" group-title="Canais: 24hrs",Pica Pau 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/3832
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Punk a Levada da Breca 24H" tvg-logo="http://listaccess.me/Logo/pun.png" group-title="Canais: 24hrs",Punk a Levada da Breca 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/14116
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Supershock 24H" tvg-logo="http://listaccess.me/Logo/supershock.png" group-title="Canais: 24hrs",Supershock 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/11718
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry 24H" tvg-logo="http://listaccess.me/Logo/tom.png" group-title="Canais: 24hrs",Tom e Jerry 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/8287
-
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço 24H" tvg-logo="http://listaccess.me/Logo/maluco.png" group-title="Canais: 24hrs",Um Maluco no Pedaço 24H
-http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7203
-
-
-
-#Séries
-#EXTINF:0 tvg-id="2" group-title="ON DEMAND | SÉRIES",
-
