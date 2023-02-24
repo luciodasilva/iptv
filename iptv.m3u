@@ -66,101 +66,65 @@ http://api.magiaiptv.com/live/800196/128093/p1_Vikings
 #EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Game of Thrones 24h
 http://api.magiaiptv.com/live/800196/128093/p1_Game_of_Thrones
 
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 01
+#EXTINF:0 tvg-id="5" group-title="ABERTA",SBT 2
 http://api.magiaiptv.com/live/800196/128093/m2_CJ7FGfCK3NGmZ2s0vgJG_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 02
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo
 http://api.magiaiptv.com/live/800196/128093/m1_FHv07WYXkqS7SXLh6C_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 03
+#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",History Vikings
 http://api.magiaiptv.com/live/800196/128093/p1_Vikings
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 04
+#EXTINF:0 tvg-id="5" group-title="FECHADA | DESENHO",Urso sem Curso
 http://api.magiaiptv.com/live/800196/128093/p1_uscur_264
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 05
-http://api.magiaiptv.com/live/800196/128093/m1_RauobKcF0BMojMUGvHwOs_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 06
-http://api.magiaiptv.com/live/800196/128093/m2_9xmMxg27zHJefCpfE_2M_264
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 07
+#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Game of Thrones 24h
 http://api.magiaiptv.com/live/800196/128093/p1_Game_of_Thrones
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 08
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",EuroSport
 http://api.magiaiptv.com/live/800196/128093/m2_EUassaafSPdfgORT_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 09
+#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX
 http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p_2M
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 10
-http://api.magiaiptv.com/live/800196/128093/m2_W80mrx0Olfggd0ainlJ_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 11
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Record
 http://api.magiaiptv.com/live/800196/128093/m3_VdZgGpjwITLnveOG_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 12
-http://api.magiaiptv.com/live/800196/128093/m1_yfdgUeQ1UcONnAqtl_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 13
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 2
 http://api.magiaiptv.com/live/800196/128093/m3_EQpEHe0qubKSI_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 14
-http://api.magiaiptv.com/live/800196/128093/m3_cifclPqEUW47LDp9q7_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 15
+#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Desconhecido
 http://api.magiaiptv.com/live/800196/128093/m3_EcfN7yNKhNP89Tp5Q_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 16
-http://api.magiaiptv.com/live/800196/128093/m2_sT1iCBSErj40Hn1s_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 17
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTV Direto
 http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 18
+#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX 2 Opção
 http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 19
-http://api.magiaiptv.com/live/800196/128093/m1_N7dFezfyTUR4HJ2a_720p_2M
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 20
-http://api.magiaiptv.com/live/800196/128093/m1_IMRzEvvkDihenNyPG_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 21
-http://api.magiaiptv.com/live/800196/128093/m1_IMRzEvvkDihenNyPG_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 22
-http://api.magiaiptv.com/live/800196/128093/m2_grEPhm077A5QLBzZ_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 23
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 3
 http://api.magiaiptv.com/live/800196/128093/m1_yfdgUeQ1UcONnAqtl_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 24
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Record 2
 http://api.magiaiptv.com/live/800196/128093/m3_H9NW5x15IXQF_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 25
-http://api.magiaiptv.com/live/800196/128093/m3_cifclPqEUW47LDp9q7_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 26
-http://api.magiaiptv.com/live/800196/128093/m2_sT1iCBSErj40Hn1s_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 27
+#EXTINF:0 tvg-id="5" group-title="FECHADA | VARIEDADES",Tv Sul
 http://api.magiaiptv.com/live/800196/128093/m2_CJtRyehdaefTaVgSual_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 28
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 4
 http://api.magiaiptv.com/live/800196/128093/m1_IMRzEvvkDihenNyPG_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 29
+#EXTINF:0 tvg-id="5" group-title="FECHADA | VARIEDADES",Tv Brasil
 http://api.magiaiptv.com/live/800196/128093/m2_wELX3b2rIQxpSkv7lC9ORcdY_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 30
-http://api.magiaiptv.com/live/800196/128093/m2_CJhTqVsBvaruaeapiv_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 31
+#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 5
 http://api.magiaiptv.com/live/800196/128093/m2_CJgLgifafdaefasdrgTV_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 32
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Fox Sports Premium
 http://api.magiaiptv.com/live/800196/128093/m1_knOhhfNdF9kfR0_720p_2M
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 33
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",N Sports
 http://api.magiaiptv.com/live/800196/128093/m2_h781bvkz1bu6a1z_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 34
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Canal Off
 http://api.magiaiptv.com/live/800196/128093/m1_u2BlGNS5ieOZf1KVtQxaIp0R_720p_2M
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 35
+#EXTINF:0 tvg-id="5" group-title="FECHADA | MUSICAS",K-Pop Tv Play
 http://api.magiaiptv.com/live/800196/128093/m2_9EOCjuxykuMtRyJM_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 36
-http://api.magiaiptv.com/live/800196/128093/m1_N7dFezfyTUR4HJ2a_720p_2M
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 37
-http://api.magiaiptv.com/live/800196/128093/m2_jgrDDm5Pab9gJW78_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 38
-http://api.magiaiptv.com/live/800196/128093/m2_EqacRasdPfasOsyds2_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 39
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",EuroSport 2
 http://api.magiaiptv.com/live/800196/128093/m2_EUassaafSPdfgORT_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 40
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Fox Sports Premium 2
 http://api.magiaiptv.com/live/800196/128093/m1_knOhhfNdF9kfR0_720p_2M
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 41
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv +
 http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 42
-http://api.magiaiptv.com/live/800196/128093/m3_DFwhzUuzfistv1_1080p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 43
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 2
 http://api.magiaiptv.com/live/800196/128093/m3_FZukotDQWYstv2_1080p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 44
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 4
 http://api.magiaiptv.com/live/800196/128093/m3_eargH0Pv9qstv4_720p_2M
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 45
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 5
 http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 46
+#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv Premiere
 http://api.magiaiptv.com/live/800196/128093/p3_jUB9PDqLPI4ma3xxj
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 47
-http://api.magiaiptv.com/live/800196/128093/m1_Mc2C471tZ5w0PF_720p
-#EXTINF:0 tvg-id="5" group-title="TESTE",Teste 48
+#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Star Channel
 http://api.magiaiptv.com/live/800196/128093/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p
 
 
