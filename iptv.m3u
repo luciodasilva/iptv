@@ -1,41 +1,8 @@
 #EXTM3U
-#Canais Abertos
-#EXTINF:0 tvg-id="5" group-title="ABERTA",SBT
-http://168.205.87.198:8555/live/antony/1234/104.m3u8
-#EXTINF:0 tvg-id="5" group-title="ABERTA",SBT 2
-http://api.magiaiptv.com/live/800196/128093/m2_CJ7FGfCK3NGmZ2s0vgJG_720p
-#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo
-http://api.magiaiptv.com/live/800196/128093/m1_FHv07WYXkqS7SXLh6C_720p
-#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 2
-http://api.magiaiptv.com/live/800196/128093/m1_yfdgUeQ1UcONnAqtl_720p
-#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 3
-http://api.magiaiptv.com/live/800196/128093/m1_IMRzEvvkDihenNyPG_720p
-#EXTINF:0 tvg-id="5" group-title="ABERTA",Globo 4
-http://api.magiaiptv.com/live/800196/128093/m2_CJgLgifafdaefasdrgTV_720p
-#EXTINF:0 tvg-id="5" group-title="ABERTA",Record
-http://api.magiaiptv.com/live/800196/128093/m3_VdZgGpjwITLnveOG_720p
-#EXTINF:0 tvg-id="5" group-title="ABERTA",Record 2
-http://api.magiaiptv.com/live/800196/128093/m3_H9NW5x15IXQF_720p
-#Filmes e Séries
-#EXTINF:0 tvg-id="1" group-title="FECHADA | FILMES E SÉRIES",Space
-https://br.embedflix.net/p2p/space/chunks.m3u8
-#EXTINF:0 tvg-id="2" group-title="FECHADA | FILMES E SÉRIES",HBO 1
-https://br.embedflix.net/p2p/hbo/chunks.m3u8
-#EXTINF:0 tvg-id="4" group-title="FECHADA | FILMES E SÉRIES",Telecine Action
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="3" group-title="FECHADA | FILMES E SÉRIES"Telecine Premium
-
-#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Telecine Touch
-https://embedflix.net/tv/telecine-touch
-#EXTINF:0 tvg-id="6" group-title="FECHADA | FILMES E SÉRIES",Telecine Pipoca
-
-#EXTINF:0 tvg-id="7" group-title="FECHADA | FILMES E SÉRIES",Telecine Cult
-
-#EXTINF:0 tvg-id="8" group-title="FECHADA | FILMES E SÉRIES",Telecine Fun
-
-#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX
-http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p_2M
-#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",FX 2 Opção
-http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | FILMES E SÉRIES",Star Channel
-http://api.magiaiptv.com/live/800196/128093/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p
+#Desenhos
+#EXTINF:0 tvg-id="2" group-title="FECHADA | DESENHO",Cartoon Network
+http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | DESENHO",TV Rá-Tim-Bum
+http://168.205.87.198:8555/live/antony/1234/84.m3u8
+#EXTINF:0 tvg-id="2" group-title="FECHADA | DESENHO",Retrô Cartoon
+http://detran-br.com/5c2c62f7-f46b-42ec-9fec-81a9f6a42354
