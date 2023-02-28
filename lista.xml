@@ -1,4 +1,11 @@
-<Content>
-<item title="SBT" description="Canal SBT" hdposterurl="https://www.seeddigital.com.br/wp-content/uploads/2014/07/sbt-logo-2.jpg" streamformat="hls" url="http://168.205.87.198:8555/live/antony/1234/104.m3u8"/>
-<item title="American Horror Stories" description="Série de Terror" hdposterurl="https://pt.wikipedia.org/wiki/American_Horror_Stories#/media/Ficheiro:Logo_serie_american_horror_stories.png" streamformat="mp4" url="http://7go.xyz:8080/series/FabianaAuckland/fab763auk/300653.mp4"/>
-</Content>
+<Content>								
+<item title="	SBT	" hdposterurl="	https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png	" streamformat="	hls	url="	http://168.205.87.198:8555/live/antony/1234/104.m3u8	"/>
+<item title="	SBT 2	" hdposterurl="	https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png	" streamformat="	hls	url="	http://api.magiaiptv.com/live/800196/128093/m2_CJ7FGfCK3NGmZ2s0vgJG_720p	"/>
+<item title="	Globo	" hdposterurl="	https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png	" streamformat="	hls	url="	http://api.magiaiptv.com/live/800196/128093/m1_FHv07WYXkqS7SXLh6C_720p	"/>
+<item title="	Globo 2	" hdposterurl="	https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png	" streamformat="	hls	url="	http://api.magiaiptv.com/live/800196/128093/m1_yfdgUeQ1UcONnAqtl_720p	"/>
+<item title="	Globo 3	" hdposterurl="	https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png	" streamformat="	hls	url="	http://api.magiaiptv.com/live/800196/128093/m1_IMRzEvvkDihenNyPG_720p	"/>
+<item title="	Globo 4	" hdposterurl="	https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png	" streamformat="	hls	url="	http://api.magiaiptv.com/live/800196/128093/m2_CJgLgifafdaefasdrgTV_720p	"/>
+<item title="	Record	" hdposterurl="	https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png	" streamformat="	hls	url="	http://api.magiaiptv.com/live/800196/128093/m3_VdZgGpjwITLnveOG_720p	"/>
+<item title="	Record 2	" hdposterurl="	https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png	" streamformat="	hls	url="	http://api.magiaiptv.com/live/800196/128093/m3_H9NW5x15IXQF_720p	"/>
+<item title="	Band	" hdposterurl="	https://upload.wikimedia.org/wikipedia/commons/2/21/Rede_Bandeirantes_logo_2011.svg	" streamformat="	hls	url="	http://168.205.87.198:8555/live/antony/1234/19.m3u8	"/>
+</Content>								
