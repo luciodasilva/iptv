@@ -117,7 +117,7 @@
 			}
 		}
 	],
-	"series": [{
+	"series2": [{
 			"id": "series_1_tips",
 			"title": "Roku Tips & Tricks",
 			"releaseDate": "2020-03-15T02:01:00+02:00",
