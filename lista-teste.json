@@ -1,19 +1,16 @@
 {
-	"providerName": "Roku Developers",
+	"providerName": "Snaker TV List",
 	"language": "en-US",
-	"lastUpdated": "2020-03-15T02:01:00+02:00",
+	"lastUpdated": "2023-02-28T02:01:00+02:00",
 	"TV Aberta": [
 		{
 			"longDescription": "SBT",
 			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
-			"releaseDate": "2020-01-15",
-			"id": "shortform-roku-streaming-overview",
 			"content": {
 				"videos": [
 					{
 						"videoType": "HLS",
-						"url": "http://168.205.87.198:8555/live/antony/1234/104.m3u8",
-						"quality": "HD"
+						"url": "http://168.205.87.198:8555/live/antony/1234/104.m3u8"
 					}
 				]
 			}
