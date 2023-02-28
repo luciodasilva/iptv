@@ -8,4 +8,44 @@
 <item title="Record" description="7" hdposterurl="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m3_VdZgGpjwITLnveOG_720p"/>
 <item title="Record 2" description="8" hdposterurl="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m3_H9NW5x15IXQF_720p"/>
 <item title="Band" description="9" hdposterurl="https://upload.wikimedia.org/wikipedia/commons/2/21/Rede_Bandeirantes_logo_2011.svg" streamformat="hls" url="http://168.205.87.198:8555/live/antony/1234/19.m3u8"/>
+<item title="Comedy Central" description="10" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/comedycentral/chunks.m3u8
+<item title="SportTV Direto" description="11" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
+<item title="Fox Sports Premium" description="12" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m1_knOhhfNdF9kfR0_720p_2M
+<item title="Fox Sports Premium 2" description="13" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m1_knOhhfNdF9kfR0_720p_2M
+<item title="SportTv +" description="14" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
+<item title="SportTv 2" description="15" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m3_FZukotDQWYstv2_1080p
+<item title="SportTv 4" description="16" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m3_eargH0Pv9qstv4_720p_2M
+<item title="SportTv 5" description="17" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
+<item title="SportTv Premiere" description="18" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/p3_jUB9PDqLPI4ma3xxj
+<item title="Canal Off" description="19" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m1_u2BlGNS5ieOZf1KVtQxaIp0R_720p_2M
+<item title="RedBull" description="20" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m3_EcfN7yNKhNP89Tp5Q_720p
+<item title="Vikings 24h" description="21" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/p1_Vikings
+<item title="Game of Thrones 24h" description="22" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/p1_Game_of_Thrones
+<item title="Urso sem Curso 24h" description="23" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/p1_uscur_264
+<item title="Séries Clássicas 24h" description="24" hdposterurl="" streamformat="hls" url="http://168.205.87.198:8555/live/antony/1234/160.m3u8
+<item title="K-Pop Tv Play" description="25" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m2_9EOCjuxykuMtRyJM_720p
+<item title="Telecine Action" description="26" hdposterurl="" streamformat="hls" url="http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+<item title="Telecine Premium" description="27" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/tlcpremium/chunks.m3u8
+<item title="Telecine Touch" description="28" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/telecinetouch/chunks.m3u8
+<item title="Telecine Pipoca" description="29" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/tlcpipoca/chunks.m3u8
+<item title="Telecine Cult" description="30" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/telecinecult/chunks.m3u8
+<item title="Telecine Fun" description="31" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/tlcfun/chunks.m3u8
+<item title="HBO 1" description="32" hdposterurl="" streamformat="hls" url="https://br.embedflix.net/p2p/hbo/chunks.m3u8
+<item title="HBO 2" description="33" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/hbo2/playlist.m3u8
+<item title="HBO Family" description="34" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/hbofamily/chunks.m3u8
+<item title="HBO Plus" description="35" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/hboplus/chunks.m3u8
+<item title="HBO Pop" description="36" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/hbopop/chunks.m3u8
+<item title="HBO Xtreme" description="37" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/hboextreme/chunks.m3u8
+<item title="HBO Max" description="38" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/hbomax/chunks.m3u8
+<item title="Space" description="39" hdposterurl="" streamformat="hls" url="https://br.embedflix.net/p2p/space/chunks.m3u8
+<item title="FX" description="40" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p_2M
+<item title="FX 2 Opção" description="41" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p
+<item title="Star Channel" description="42" hdposterurl="" streamformat="hls" url="http://api.magiaiptv.com/live/800196/128093/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p
+<item title="TNT Series" description="43" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/tntseries/chunks.m3u8
+<item title="Warner Bros" description="44" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/warnerchannel/chunks.m3u8
+<item title="Megapix" description="45" hdposterurl="" streamformat="hls" url="https://live.embedflix.net/p2p/megapix/chunks.m3u8
+<item title="Cartoon Network" description="46" hdposterurl="" streamformat="hls" url="http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8
+<item title="TV Rá-Tim-Bum" description="47" hdposterurl="" streamformat="hls" url="http://168.205.87.198:8555/live/antony/1234/84.m3u8
+<item title="TV Anime" description="48" hdposterurl="" streamformat="hls" url="https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 </Content>
+
