@@ -17,7 +17,7 @@
 		},	
 		{
 			"title": "Globo",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",
 			"content": {
 				"videos": [
 					{
@@ -29,7 +29,7 @@
 		},
 		{
 			"title": "Record",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "http://recordtv.r7.com/files/2016/11/logo-ok-.jpg",
 			"content": {
 				"videos": [
 					{
@@ -40,7 +40,7 @@
 			}
 		},			{
 			"title": "RedeTV",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",
 			"content": {
 				"videos": [
 					{
@@ -51,7 +51,7 @@
 			}
 		},			{
 			"title": "Band",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/21/Rede_Bandeirantes_logo_2011.svg",
 			"content": {
 				"videos": [
 					{
@@ -65,7 +65,7 @@
 	"Canais Fechados | Desenhos": [
 		{
 			"title": "Cartoon Network",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",
 			"content": {
 				"videos": [
 					{
@@ -77,7 +77,7 @@
 		},
 		{
 			"title": "TV Rá-Tim-Bum",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png",
 			"content": {
 				"videos": [
 					{
@@ -89,7 +89,7 @@
 		},
 		{
 			"title": "TV Anime",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://m.media-amazon.com/images/I/61mXXUQVTPL.jpg",
 			"content": {
 				"videos": [
 					{
@@ -101,7 +101,7 @@
 		},
 		{
 			"title": "Retrô Cartoon",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp",
 			"content": {
 				"videos": [
 					{
@@ -115,7 +115,7 @@
 	"Canais Fechados | Filmes e Séries": [
 		{
 			"title": "Telecine Action",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png",
 			"content": {
 				"videos": [
 					{
@@ -129,7 +129,7 @@
 	"Canais Fechados | Esportes": [
 		{
 			"title": "SporTV 5",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg",
 			"content": {
 				"videos": [
 					{
@@ -143,7 +143,7 @@
 	"Canais Fechados | Músicas": [
 		{
 			"title": "K-Pop Tv Play",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM_400x400.jpg",
 			"content": {
 				"videos": [
 					{
@@ -157,7 +157,7 @@
 	"Canais 24h": [
 		{
 			"title": "Séries Clássicas 24h",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://pbs.twimg.com/profile_images/1140235137/SCminilogo_400x400.jpg",
 			"content": {
 				"videos": [
 					{
@@ -169,7 +169,7 @@
 		},
 		{
 			"title": "Urso Sem Curso 24h",
-			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"thumbnail": "https://cn.i.cdn.ti-platform.com/cnlatam/content/833/showpage/escandalosos/ar/showlogo.png?imwidth=320",
 			"content": {
 				"videos": [
 					{
