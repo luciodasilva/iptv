@@ -2,7 +2,7 @@
 	"providerName": "Snaker TV List",
 	"language": "en-US",
 	"lastUpdated": "2023-02-28T02:01:00+02:00",
-	"TV Aberta": [
+	"Canais Abertos": [
 		{
 			"title": "SBT",
 			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
@@ -14,6 +14,170 @@
 					}
 				]
 			}
-		}		
+		},	
+		{
+			"title": "Globo",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://api.magiaiptv.com/live/800196/128093/m1_IMRzEvvkDihenNyPG_720p"
+					}
+				]
+			}
+		},
+		{
+			"title": "Record",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://api.magiaiptv.com/live/800196/128093/m3_H9NW5x15IXQF_720p"
+					}
+				]
+			}
+		},			{
+			"title": "RedeTV",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://168.205.87.198:8555/live/antony/1234/104.m3u8"
+					}
+				]
+			}
+		},			{
+			"title": "Band",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://168.205.87.198:8555/live/antony/1234/19.m3u8"
+					}
+				]
+			}
+		}
+	],
+	"Canais Fechados | Desenhos": [
+		{
+			"title": "Cartoon Network",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8"
+					}
+				]
+			}
+		},
+		{
+			"title": "TV Rá-Tim-Bum",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://168.205.87.198:8555/live/antony/1234/84.m3u8"
+					}
+				]
+			}
+		},
+		{
+			"title": "TV Anime",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8"
+					}
+				]
+			}
+		},
+		{
+			"title": "Retrô Cartoon",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8"
+					}
+				]
+			}
+		}
+	],	
+	"Canais Fechados | Filmes e Séries": [
+		{
+			"title": "Telecine Action",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8"
+					}
+				]
+			}
+		}
+	],	
+	"Canais Fechados | Esportes": [
+		{
+			"title": "SporTV 5",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p"
+					}
+				]
+			}
+		}
+	],	
+	"Canais Fechados | Músicas": [
+		{
+			"title": "K-Pop Tv Play",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://api.magiaiptv.com/live/800196/128093/m2_9EOCjuxykuMtRyJM_720p"
+					}
+				]
+			}
+		}
+	],
+	"Canais 24h": [
+		{
+			"title": "Séries Clássicas 24h",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://168.205.87.198:8555/live/antony/1234/160.m3u8"
+					}
+				]
+			}
+		},
+		{
+			"title": "Urso Sem Curso 24h",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://api.magiaiptv.com/live/800196/128093/p1_uscur_264"
+					}
+				]
+			}
+		}
 	]
 }
