@@ -29,7 +29,7 @@
 		},
 		{
 			"title": "Record",
-			"thumbnail": "http://recordtv.r7.com/files/2016/11/logo-ok-.jpg",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png",
 			"content": {
 				"videos": [
 					{
@@ -65,7 +65,7 @@
 	"Canais Fechados | Desenhos": [
 		{
 			"title": "Cartoon Network",
-			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",
+			"thumbnail": "https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-2.png",
 			"content": {
 				"videos": [
 					{
@@ -115,7 +115,7 @@
 	"Canais Fechados | Filmes e Séries": [
 		{
 			"title": "Telecine Action",
-			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png",
+			"thumbnail": "https://skytvplanos.com.br/img/channels/lg-62-canal-tc-action.png",
 			"content": {
 				"videos": [
 					{
@@ -129,7 +129,7 @@
 	"Canais Fechados | Esportes": [
 		{
 			"title": "SporTV 5",
-			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5e/SporTV_2017_logo.svg",
+			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png",
 			"content": {
 				"videos": [
 					{
