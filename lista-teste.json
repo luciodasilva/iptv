@@ -76,6 +76,18 @@
 			}
 		},
 		{
+			"title": "Nickelodeon",
+			"thumbnail": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e5ddbc3-0cff-4d7a-8b3f-fcf7d31d44b8/de8ih7q-072db0a7-d359-4e4f-a3ae-a85173cb40ce.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJlNWRkYmMzLTBjZmYtNGQ3YS04YjNmLWZjZjdkMzFkNDRiOFwvZGU4aWg3cS0wNzJkYjBhNy1kMzU5LTRlNGYtYTNhZS1hODUxNzNjYjQwY2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bqXe0j2aF_aHm4tuwpRqNbDqYhHVnHxwrJv84S9XCDo",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "https://futemax.app/d47a2a54-61bc-45a8-abf6-38c4a42f5f70"
+					}
+				]
+			}
+		},
+		{
 			"title": "TV Rá-Tim-Bum",
 			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png",
 			"content": {
