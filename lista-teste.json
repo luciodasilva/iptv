@@ -159,8 +159,9 @@
 			"content": {
 				"videos": [
 					{
-						"videoType": "MP4",
-						"url": "http://7go.xyz:8080/series/FabianaAuckland/fab763auk/239609.mp4"
+						"videoType": "HLS",
+						"url": "http://api.magiaiptv.com/live/800196/128093/m2_9EOCjuxykuMtRyJM_720p"
+
 					}
 				]
 			}
@@ -173,8 +174,8 @@
 			"content": {
 				"videos": [
 					{
-						"videoType": "HLS",
-						"url": "http://api.magiaiptv.com/live/800196/128093/m2_9EOCjuxykuMtRyJM_720p"
+						"videoType": "MP4",
+						"url": "http://7go.xyz:8080/series/FabianaAuckland/fab763auk/239609.mp4"
 					}
 				]
 			}
