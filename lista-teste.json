@@ -178,13 +178,13 @@
 			}
 		},
 		{
-			"title": "Discovery",
+			"title": "Baby TV HD",
 			"thumbnail": "https://logosmarcas.net/wp-content/uploads/2022/02/Discovery-Channel-Logo.png",
 			"content": {
 				"videos": [
 					{
 						"videoType": "HLS",
-						"url": "http://nsk9.peers.tv/streaming/foxlife/16/tvrecw/playlist.m3u8"
+						"url": "http://dns.x8full.com:80/1234567/1234567/17291"
 					}
 				]
 			}
