@@ -184,7 +184,7 @@
 				"videos": [
 					{
 						"videoType": "HLS",
-						"url": "http://nsk9.peers.tv/streaming/discovery/16/tvrecw/playlist.m3u8"
+						"url": "http://tviptv.iptv-channel.ru:8000/live/robertkarapetan85@gmail.com/79147020936/43.ts"
 					}
 				]
 			}
