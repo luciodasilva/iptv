@@ -178,13 +178,13 @@
 			}
 		},
 		{
-			"title": "Baby TV HD",
+			"title": "Telecine",
 			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/6/61/BABY_TV_HD.png/revision/latest/scale-to-width-down/1000?cb=20150308151948",
 			"content": {
 				"videos": [
 					{
 						"videoType": "HLS",
-						"url": "http://dns.x8full.com:80/1234567/1234567/17291"
+						"url": "http://dns.x8full.com:80/1234567/1234567/17827"
 					}
 				]
 			}
