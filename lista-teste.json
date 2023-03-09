@@ -188,6 +188,18 @@
 					}
 				]
 			}
+		},
+		{
+			"title": "Canal Teste",
+			"thumbnail": "https://static.wikia.nocookie.net/logopedia/images/6/61/BABY_TV_HD.png/revision/latest/scale-to-width-down/1000?cb=20150308151948",
+			"content": {
+				"videos": [
+					{
+						"videoType": "mp4",
+						"url": "http://dns.x8full.com:80/series/1234567/1234567/63127.mp4"
+					}
+				]
+			}
 		}
 	],	
 
