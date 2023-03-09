@@ -176,6 +176,18 @@
 					}
 				]
 			}
+		},
+		{
+			"title": "Discovery",
+			"thumbnail": "https://imgur.com/6bA9LbZ.png",
+			"content": {
+				"videos": [
+					{
+						"videoType": "HLS",
+						"url": "http://nsk9.peers.tv/streaming/discovery/16/tvrecw/playlist.m3u8"
+					}
+				]
+			}
 		}
 	],	
 
