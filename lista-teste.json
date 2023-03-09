@@ -159,6 +159,21 @@
 			"content": {
 				"videos": [
 					{
+						"videoType": "MP4",
+						"url": "http://7go.xyz:8080/series/FabianaAuckland/fab763auk/239609.mp4
+"
+					}
+				]
+			}
+		}
+	],
+	"Apenas um Show": [
+		{
+			"title": "Apenas Um Show (2010) S01 E01",
+			"thumbnail": "http://1.bp.blogspot.com/-lkj0e_MYyJ4/UTKzOCIof2I/AAAAAAAAClo/9U2iqREvqBo/s1600/regular+show+apenas+um+show+nada+mais+que+isso+wallpaper+ocultismo+magia+esoterismo+desenho+cartoon+network.jpg",
+			"content": {
+				"videos": [
+					{
 						"videoType": "HLS",
 						"url": "http://api.magiaiptv.com/live/800196/128093/m2_9EOCjuxykuMtRyJM_720p"
 					}
