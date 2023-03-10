@@ -178,13 +178,13 @@
 			}
 		},
 		{
-			"title": "Teste 1",
-			"thumbnail": "https://i.postimg.cc/JhGnLQLs/1516311085-daf8e87ee066625b204c7ab0c72f4fd93495b3eb.jpg",
+			"title": "Os Jetsons",
+			"thumbnail": "https://listaiptv.gratis/logos/imagens/jetsons.png",
 			"content": {
 				"videos": [
 					{
 						"videoType": "HLS",
-						"url": "http://cdn.erost.us:8080/87184553/25571343/14414"
+						"url": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8"
 					}
 				]
 			}
