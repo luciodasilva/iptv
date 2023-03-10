@@ -247,61 +247,13 @@
 	],
 	"Séries | American Horror Stories": [
 		{
-			"title": "American Horror Stories (2021) S01 E04",
-			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_serie_american_horror_stories.png",
-			"content": {
-				"videos": [
-					{
-						"videoType": "mp4",
-						"url": "http://7go.xyz:8080/series/FabianaAuckland/fab763auk/300642.mp4"
-					}
-				]
-			}
-		},
-		{
-			"title": "American Horror Stories (2021) S01 E05",
-			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_serie_american_horror_stories.png",
-			"content": {
-				"videos": [
-					{
-						"videoType": "mp4",
-						"url": "http://7go.xyz:8080/series/FabianaAuckland/fab763auk/300643.mp4"
-					}
-				]
-			}
-		},
-		{
-			"title": "American Horror Stories (2021) S01 E06",
-			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_serie_american_horror_stories.png",
-			"content": {
-				"videos": [
-					{
-						"videoType": "mp4",
-						"url": "http://7go.xyz:8080/series/FabianaAuckland/fab763auk/300644.mp4"
-					}
-				]
-			}
-		},
-		{
-			"title": "American Horror Stories (2021) S01 E07",
-			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_serie_american_horror_stories.png",
-			"content": {
-				"videos": [
-					{
-						"videoType": "mp4",
-						"url": "http://7go.xyz:8080/series/FabianaAuckland/fab763auk/300645.mp4"
-					}
-				]
-			}
-		},
-		{
 			"title": "American Horror Stories (2021) S02 E01",
 			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_serie_american_horror_stories.png",
 			"content": {
 				"videos": [
 					{
-						"videoType": "mp4",
-						"url": "http://7go.xyz:8080/series/FabianaAuckland/fab763auk/300646.mp4"
+						"videoType": "hls",
+						"url": "https://warezcdn.com/embed/getEmbed.php?id=218638&amp;sv=warezcdn"
 					}
 				]
 			}
