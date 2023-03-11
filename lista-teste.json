@@ -247,25 +247,25 @@
 	],
 	"Séries | American Horror Stories": [
 		{
-			"title": "American Horror Stories (2021) S02 E01 teste",
+			"title": "American Horror Stories (2021) S02 E01 mp4",
 			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_serie_american_horror_stories.png",
 			"content": {
 				"videos": [
 					{
-						"videoType": "hls",
-						"url": "https://dl1.fm6n.xyz/Series/Another.Life/American.Horror.Stories/S01/American.Horror.Stories.S01E06.720p.WEB.x265-MiNX.mkv"
+						"videoType": "mp4",
+						"url": "http://cdnrede.com:80/series/rosanapin/rosana@123/213887.mp4"
 					}
 				]
 			}
 		},
 		{
-			"title": "American Horror Stories (2021) S02 E02 teste2",
+			"title": "American Horror Stories (2021) S02 E02 mp4",
 			"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_serie_american_horror_stories.png",
 			"content": {
 				"videos": [
 					{
-						"videoType": "mkv",
-						"url": "https://dl1.fm6n.xyz/Series/Another.Life/American.Horror.Stories/S01/American.Horror.Stories.S01E06.720p.WEB.x265-MiNX.mkv"
+						"videoType": "mp4",
+						"url": "http://cdnrede.com:80/series/rosanapin/rosana@123/209655.mp4"
 					}
 				]
 			}
