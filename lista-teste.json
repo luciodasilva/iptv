@@ -138,6 +138,20 @@
 			}
 		}
 	],	
+	"Filmes e Séries": [
+		{
+			"title": "Run - Fuja",
+			"thumbnail": "https://image.tmdb.org/t/p/w780/DnjwdbjdR2c5MFhKv5ZSRf8rDU.jpg",
+			"content": {
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://video.wixstatic.com/video/834009_0861307605ce48ab97f53719fa9f583d/720p/mp4/file.mp4"
+					}
+				]
+			}
+		}
+	],
 	"Canais Fechados | Esportes": [
 		{
 			"title": "SporTV 5",
