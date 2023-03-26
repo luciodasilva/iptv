@@ -140,7 +140,7 @@
 	],	
 	"Filmes e Séries": [
 		{
-			"title:" Filme de Agora",
+			"title": "Filme de Agora",
 			"thumbnail": "https://image.tmdb.org/t/p/w780/DnjwdbjdR2c5MFhKv5ZSRf8rDU.jpg",
 			"content": {
 				"videos": [
