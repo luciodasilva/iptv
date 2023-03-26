@@ -140,13 +140,13 @@
 	],	
 	"Filmes e Séries": [
 		{
-			"title": "Run - Fuja",
+			"title:" Filme de Agora",
 			"thumbnail": "https://image.tmdb.org/t/p/w780/DnjwdbjdR2c5MFhKv5ZSRf8rDU.jpg",
 			"content": {
 				"videos": [
 					{
 						"videoType": "MP4",
-						"url": "https://video.wixstatic.com/video/834009_0861307605ce48ab97f53719fa9f583d/720p/mp4/file.mp4"
+						"url": "https://topflix.vc/player/share_vi/?code=86293271&muuid=1789&url=/movies/p4/543567tudo-em-todo-lugar-ao-mesmo-tempo_dub.mp4"
 					}
 				]
 			}
